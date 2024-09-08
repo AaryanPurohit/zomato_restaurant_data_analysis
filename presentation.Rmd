@@ -1,0 +1,51 @@
+---
+title: "Presentation Layout"
+author: "Aaryan Purohit"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: 
+      collapsed: true
+      smooth_scroll: true
+    number_sections: true
+    #theme: flatly
+    highlight: kate
+---
+
+```{css,echo = FALSE}
+body {
+  background-color: #F6F5F5;
+  color: #34495E;
+  margin: 0;
+  font-weight: 300;
+  font-size: 16;
+  }
+```
+
+```{r echo=FALSE, include=FALSE}
+library(htmltools)
+library(tidyverse)
+```
+
+#Item Sales
+
+##Item Category Sales by Month
+
+![](total_sales_category.html){width=1200px}
+
+##Low Sale Highest Selling Items
+
+![](scholarship2.jpeg){width=1200px}
+
+##High Sale Highest Selling Items
+
+![](scholarship2.jpeg){width=1200px}
+
+#Order Sales
+
+
+
+
+
+

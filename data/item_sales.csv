@@ -1,0 +1,1101 @@
+﻿MONTH,RESTAURANT_ID,IS_VEG,BRAND_NAME,CITY,AREA,ITEM_ID,ITEM_NAME,ITEM_CATEGORY,VARIANT_NAME,PRICE_PER_ITEM,ITEM_QUANTITY,ITEM_SUBTOTAL
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105393,Chana Masala,"Main Course""""",,222.4,25,5560
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,176.6123188,276,48745
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,230,5,1150
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105267,Gobi Manchurian Dry,"Starters""""",,255,6,1530
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178716,Mutter Paratha,"Parathas""""",,145,6,870
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,174,12180
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,108,1620
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105297,Veg Jaipuri,"Main Course""""",,240,5,1200
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,108.5714286,28,3040
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,247.2077922,77,19035
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105386,Plain Bajra Roti,"Indian Breads""""",,45,39,1755
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105332,Aloo Kanda,"Flavours of Rajasthan""""",,230,3,690
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105300,Veg Makhanwala,"Main Course""""",,230,4,920
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,256,20,5120
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105343,Paneer Chilli Gravy,"Main Course""""",,190,8,1520
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,220.4545455,143,31525
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109588024,Dum Aloo Combo,"Swiggy Exclusive Combos""""",,245,11,2695
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105338,Paneer Handi,"Main Course""""",,245,12,2940
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156512,Extra Bati,"Flavours of Rajasthan""""",,70,6,420
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,65,5,325
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,106110118,G. Methi Paratha,"Indian Breads""""",,110,4,440
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,260,3,780
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105274,Veg Fried Rice,"Chinese""""",,220,16,3520
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,250.1724138,29,7255
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,261.2903226,62,16200
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,106110108,Aloo Paratha,"Indian Breads""""",,114.2857143,7,800
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,240,2,480
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,169.375,24,4065
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105398,Veg Manchurian ,"Chinese""""",,255,8,2040
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105364,Veg Handi Biryani,"Rice & Biryani""""",,192.8571429,7,1350
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,203.5036496,137,27880
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,188.1666667,30,5645
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,260.2898551,69,17960
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,63.33333333,30,1900
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105200,B.Cheese Naan,"Indian Breads""""",,120,15,1800
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105245,Sweet corn Soup,"Soups""""",,120,6,720
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105315,Methi Mutter,"Main Course""""",,230,3,690
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,246.1111111,9,2215
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105375,Masala Khichdi,"Rice & Biryani""""",,210,2,420
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,180,5,900
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,260,8,2080
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,290,10150
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,271.4285714,35,9500
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,26,1430
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,230,36,8280
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,232.8,25,5820
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,65,9,585
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105303,Malai Kofta,"Main Course""""",,232.5,8,1860
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,263,10,2630
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,256.8421053,38,9760
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,106110115,G.Mutter Paratha,"Indian Breads""""",,110,4,440
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,47.73809524,42,2005
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,263.6363636,33,8700
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,63,2205
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,80,32,2560
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105255,Tomato Soup,"Soups""""",,120,9,1080
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,245,10,2450
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,40,98,3920
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,194.7058824,17,3310
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi J,"Starters""""",,130,124,16120
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,250.4545455,11,2755
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,227.2727273,33,7500
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,225.8333333,12,2710
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105374,Mix Veg Khichdi,"Rice & Biryani""""",,180,2,360
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,431,19395
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,207.2580645,31,6425
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,230,20,4600
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,168.0701754,114,19160
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105306,Aloo Gobi Mutter,"Main Course""""",,233,20,4660
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105322,Rajasthani Bhindi,"Flavours of Rajasthan""""",,230,22,5060
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,262.5714286,70,18380
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,215,4,860
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,100,48,4800
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109179622,G.Tawa Paratha,"Parathas""""",,55,26,1430
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,106110111,G.Gobi Paratha,"Indian Breads""""",,120,3,360
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105301,Sabji Jalfrezi,"Main Course""""",,232.1428571,14,3250
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,81,3645
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,73.38028169,71,5210
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178773,Paneer Paratha,"Parathas""""",,155,2,310
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85.20689655,725,61775
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105310,Aloo Methi,"Main Course""""",,200,11,2200
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,35.24193548,62,2185
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,190,6,1140
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178748,Methi Paratha,"Parathas""""",,145,8,1160
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153278,Dal Fry Combo,"Swiggy Exclusive Combos""""",,211.25,8,1690
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68282791,Veg Dum Biryani Combo,"Swiggy Exclusive Combos""""",,295,1,295
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,275.625,16,4410
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,268.3333333,6,1610
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,180.4545455,22,3970
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,217,15190
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,21.13793103,290,6130
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,70,15,1050
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105266,Aloo Raita,"Accompaniments""""",,85,3,255
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583331,Sev Tamatar Combo,"Swiggy Exclusive Combos""""",,255,8,2040
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105397,Baby Corn Mushroom Masala,"Main Course""""",,290,12,3480
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,267.4137931,58,15510
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105381,B.Missi Roti,"Indian Breads""""",,55,3,165
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,235.7575758,33,7780
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105349,Mushroom Paneer Masala,"Main Course""""",,300,3,900
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105287,Churma,"Starters""""",,180,6,1080
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,255,29,7395
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,38,1900
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105330,Wadi Methi,"Flavours of Rajasthan""""",,230,6,1380
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,260,26,6760
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,263.8114754,244,64370
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105294,Mix Vegetable,"Main Course""""",,239.4,25,5985
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd,"Accompaniments""""",,57.5,4,230
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,262.8947368,19,4995
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,85,21,1785
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,247.2580645,62,15330
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,323.5714286,14,4530
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,177.037037,27,4780
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105206,B.Cheese Garlic Naan,"Indian Breads""""",,130,33,4290
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,545,49050
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,250,4,1000
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,312.7848101,79,24710
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105339,Paneer Pasanda,"Main Course""""",,248.3333333,18,4470
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,214.6103896,77,16525
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi J,"Starters""""",,130,53,6890
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,231.3793103,29,6710
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105396,Mushroom Masala,"Main Course""""",,260,11,2860
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583504,Kadai Paneer Combo,"Swiggy Exclusive Combos""""",,270,5,1350
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,3,135
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105269,Veg Raita,"Accompaniments""""",,85,8,680
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75.67039106,179,13545
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,256.754386,57,14635
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105252,Manchow Soup,"Soups""""",,165.2380952,21,3470
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,221.6666667,12,2660
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix J,"Starters""""",,140,65,9100
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105357,Panch Mel Dal,"Flavours of Rajasthan""""",,217.5,4,870
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,18,900
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,255,20,5100
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105238,Aloo Paratha,"Parathas""""",,145,8,1160
+1,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105334,Gujrati Kadhi,"Flavours of Rajasthan""""",,205,2,410
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,255,12,3060
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,258.3333333,54,13950
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,248.1578947,38,9430
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,204.6875,16,3275
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178752,Mix Paratha,"Parathas""""",,155,3,465
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,220,5,1100
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,43.38983051,59,2560
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105267,Gobi Manchurian Dry,"Starters""""",,255,10,2550
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105252,Manchow Soup,"Soups""""",,164.5454545,11,1810
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109582451,Chana Masala Combo,"Swiggy Exclusive Combos""""",,247,5,1235
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,255,2,510
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,160,34,5440
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,137,4795
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105349,Mushroom Paneer Masala,"Main Course""""",,300,9,2700
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,158,5530
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,231.9444444,36,8350
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,186.3636364,44,8200
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,260,44,11440
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105381,B.Missi Roti,"Indian Breads""""",,55,50,2750
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,74.62365591,93,6940
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,178.6923077,260,46460
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101896866,Churma,"Desserts""""",,180,19,3420
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583331,Sev Tamatar Combo,"Swiggy Exclusive Combos""""",,262,30,7860
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105220,B.Cheese Kulcha,"Indian Breads""""",,120,20,2400
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi J,"Starters""""",,130,88,11440
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,230,15,3450
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,65,17,1105
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,220,26,5720
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,80,52,4160
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,277.1428571,21,5820
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,324.375,24,7785
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105369,Green Peas Pulao,"Rice & Biryani""""",,170,13,2210
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,260,6,1560
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,55,2475
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,301.25,40,12050
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,110,19,2090
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,259.6363636,55,14280
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,215,16,3440
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,60,29,1740
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,230,2,460
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,205.7407407,27,5555
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105206,B.Cheese Garlic Naan,"Indian Breads""""",,130,7,910
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi J,"Starters""""",,130,90,11700
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105338,Paneer Handi,"Main Course""""",,245,6,1470
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix J,"Starters""""",,140,69,9660
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,216.5053763,93,20135
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105296,Veg Handi,"Main Course""""",,245,2,490
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,85,35,2975
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583504,Kadai Paneer Combo,"Swiggy Exclusive Combos""""",,269.4736842,19,5120
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,230,18,4140
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,260,16,4160
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,9,405
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,262.6923077,26,6830
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,247.4074074,54,13360
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,70,5,350
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,194.1666667,12,2330
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60742798,Schezwan Chutney,"Accompaniments""""",,40,4,160
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,245,11,2695
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,260,9,2340
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,195.1694915,59,11515
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,100,51,5100
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,138,9660
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,156,2340
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,268.0909091,110,29490
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105386,Plain Bajra Roti,"Indian Breads""""",,45,17,765
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,170,7,1190
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,271.6,25,6790
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,245.7142857,14,3440
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,46,2300
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,46,2300
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105310,Aloo Methi,"Main Course""""",,200,8,1600
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,265.2348993,149,39520
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,82,5740
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105394,Chole Masala,"Main Course""""",,220,17,3740
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105393,Chana Masala,"Main Course""""",,220,2,440
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,269.2857143,14,3770
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105200,B.Cheese Naan,"Indian Breads""""",,120,4,480
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,210,1,210
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153278,Dal Fry Combo,"Swiggy Exclusive Combos""""",,205,1,205
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178773,Paneer Paratha,"Parathas""""",,155,5,775
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,210,20,4200
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,171.9186047,86,14785
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,205.1485149,101,20720
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109180000,Laccha Paratha,"Parathas""""",,60,5,300
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105339,Paneer Pasanda,"Main Course""""",,245,3,735
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105238,Aloo Paratha,"Parathas""""",,145,30,4350
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,267.6470588,34,9100
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105326,Ker Sangri,"Flavours of Rajasthan""""",,230,9,2070
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105300,Veg Makhanwala,"Main Course""""",,230,4,920
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105251,G.Tawa Paratha,"Indian Breads""""",,55,29,1595
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,40,95,3800
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,173.3333333,21,3640
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,626,10642
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109588024,Dum Aloo Combo,"Swiggy Exclusive Combos""""",,246.4285714,7,1725
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,12,660
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,260,47,12220
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,174,13050
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,245,27,6615
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,560,50400
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105374,Mix Veg Khichdi,"Rice & Biryani""""",,180,2,360
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,245,18,4410
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,65,20,1300
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,255,12,3060
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,110460792,Matka Rabdi,"Desserts""""",,100,10,1000
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105364,Veg Handi Biryani,"Rice & Biryani""""",,196.25,8,1570
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105294,Mix Vegetable,"Main Course""""",,245,6,1470
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105332,Aloo Kanda,"Flavours of Rajasthan""""",,231.1538462,26,6010
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd,"Accompaniments""""",,50.88235294,17,865
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105255,Tomato Soup,"Soups""""",,120,2,240
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,56.75324675,77,4370
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,263.3333333,36,9480
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,341,15345
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,246.7142857,35,8635
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105344,Mutter Paneer,"Main Course""""",,245,4,980
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,260,29,7540
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105269,Veg Raita,"Accompaniments""""",,85,3,255
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,462,39270
+2,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105319,Plain Palak,"Main Course""""",,200,3,600
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105394,Chole Masala,"Main Course""""",,220,10,2200
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,260,17,4420
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105349,Mushroom Paneer Masala,"Main Course""""",,300,4,1200
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105251,G.Tawa Paratha,"Indian Breads""""",,55,49,2695
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802733,Chaas,"Beverages""""",,45,36,1620
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,110,9900
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105357,Panch Mel Dal,"Flavours of Rajasthan""""",,215,4,860
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178773,Paneer Paratha,"Parathas""""",,155,5,775
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,210,12,2520
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,170,9,1530
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,11,495
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60742798,Schezwan Chutney,"Accompaniments""""",,40,4,160
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802731,Sweet Lassi,"Beverages""""",,70,20,1400
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,230,8,1840
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105338,Paneer Handi,"Main Course""""",,247,20,4940
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109179622,G.Tawa Paratha,"Parathas""""",,55,22,1210
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802734,Kesar Lassi,"Beverages""""",,80,3,240
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,263.6111111,36,9490
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,70,39,2730
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,257.5,24,6180
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109582451,Chana Masala Combo,"Swiggy Exclusive Combos""""",,240,5,1200
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,53.2,75,3990
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105375,Masala Khichdi,"Rice & Biryani""""",,226.25,12,2715
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,224.7058824,34,7640
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438314,Veg Dum Biryani Combo,"FIFA Specials""""",,285,7,1995
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105252,Manchow Soup,"Soups""""",,166.25,8,1330
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,261.6666667,12,3140
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,249,30,7470
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105369,Green Peas Pulao,"Rice & Biryani""""",,174.4444444,9,1570
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,255,20,5100
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156512,Extra Bati,"Flavours of Rajasthan""""",,70,25,1750
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,198.3333333,9,1785
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,199.4444444,9,1795
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,56,1960
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,85,27,2295
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105386,Plain Bajra Roti,"Indian Breads""""",,45,57,2565
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105374,Mix Veg Khichdi,"Rice & Biryani""""",,180,6,1080
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,183.8961039,231,42480
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,245,9,2205
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,226.6666667,6,1360
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105220,B.Cheese Kulcha,"Indian Breads""""",,120,7,840
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,385,6545
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,182.037037,54,9830
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,246.9607843,51,12595
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,263.5772358,123,32420
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,14,630
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109179962,B.Laccha Paratha,"Parathas""""",,70,2,140
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105269,Veg Raita,"Accompaniments""""",,85,13,1105
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,271.9,50,13595
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105274,Veg Fried Rice,"Chinese""""",,214.2105263,19,4070
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,113292537,Aamras,"Summer Special Menu""""",,100,6,600
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91399846,Aamras,"Desserts""""",,100,23,2300
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105319,Plain Palak,"Main Course""""",,200,3,600
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,113292535,Aamras + Puri,"Summer Special Menu""""",,185,11,2035
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105393,Chana Masala,"Main Course""""",,220,9,1980
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,80,33,2640
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,230,21,4830
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,276,12420
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,264.5454545,22,5820
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109588024,Dum Aloo Combo,"Swiggy Exclusive Combos""""",,245,13,3185
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,262.7777778,36,9460
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105334,Gujrati Kadhi,"Flavours of Rajasthan""""",,205,5,1025
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438311,Veg Kolhapuri Combo,"FIFA Specials""""",,255,3,765
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,65,11,715
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,170.8333333,42,7175
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,213.8709677,31,6630
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,13,715
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,88,6600
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,40,11,440
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,70,64,4480
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,245.952381,42,10330
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,60,32,1920
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,260,7,1820
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,100,47,4700
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438317,Jodhpuri Gatte Combo,"FIFA Specials""""",,255,4,1020
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105344,Mutter Paneer,"Main Course""""",,248.6,25,6215
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,113292532,Aamras + Puri,"Summer Special Menu""""",,315,1,315
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105326,Ker Sangri,"Flavours of Rajasthan""""",,230,8,1840
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105322,Rajasthani Bhindi,"Flavours of Rajasthan""""",,230,2,460
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,100,7000
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101896866,Churma,"Desserts""""",,180,1,180
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,206.6129032,31,6405
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,180,14,2520
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,206.3684211,95,19605
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,230,10,2300
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,3,150
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105213,Plain Kulcha,"Indian Breads""""",,60,4,240
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,232.5,8,1860
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,255,8,2040
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi J,"Starters""""",,130,67,8710
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,344.7727273,22,7585
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,250.9722222,72,18070
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105217,B.Onion Kulcha,"Indian Breads""""",,80,15,1200
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105380,Plain Missi Roti,"Indian Breads""""",,50,4,200
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153278,Dal Fry Combo,"Swiggy Exclusive Combos""""",,205,12,2460
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105328,Dahiwale Aloo,"Flavours of Rajasthan""""",,165,5,825
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105267,Gobi Manchurian Dry,"Starters""""",,255,6,1530
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,110460792,Matka Rabdi,"Desserts""""",,100,18,1800
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,264.1025641,39,10300
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,110,25,2750
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583331,Sev Tamatar Combo,"Swiggy Exclusive Combos""""",,257.2413793,29,7460
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,228,3420
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105241,Gobi Paratha,"Parathas""""",,145,23,3335
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583504,Kadai Paneer Combo,"Swiggy Exclusive Combos""""",,267.5,6,1605
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,245,13,3185
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,270,7,1890
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd,"Accompaniments""""",,49.0625,16,785
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438303,Paneer TM Combo,"FIFA Specials""""",,265,2,530
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,177.962963,27,4805
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105297,Veg Jaipuri,"Main Course""""",,237.6923077,13,3090
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,219.6153846,13,2855
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105238,Aloo Paratha,"Parathas""""",,145,10,1450
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,245,20,4900
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,65,18,1170
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105296,Veg Handi,"Main Course""""",,251.25,8,2010
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,163,5705
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178716,Mutter Paratha,"Parathas""""",,145,4,580
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105255,Tomato Soup,"Soups""""",,120,4,480
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,127,8890
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802732,Salted Lassi,"Beverages""""",,70,3,210
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi J,"Starters""""",,130,53,6890
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,220.7594937,79,17440
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,43.05084746,59,2540
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,464,39440
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,265,14,3710
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,232.2222222,27,6270
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,230,6,1380
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978113,Paneer TM Combo,"Late Night Specials""""",,265,3,795
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,303.5185185,54,16390
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,258.8297872,47,12165
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105294,Mix Vegetable,"Main Course""""",,235,6,1410
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,29,1450
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,190.6666667,45,8580
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,257,15,3855
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,230,26,5980
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,260.1851852,27,7025
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156509,Rajasthani Khichdii,"Flavours of Rajasthan""""",,190,5,950
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105398,Veg Manchurian ,"Chinese""""",,257.1428571,14,3600
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105206,B.Cheese Garlic Naan,"Indian Breads""""",,130,8,1040
+3,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix J,"Starters""""",,140,102,14280
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,113292532,Aamras + Puri,"Summer Special Menu""""",,315,8,2520
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105294,Mix Vegetable,"Main Course""""",,245,1,245
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,73.90243902,82,6060
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,263.5714286,35,9225
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105369,Green Peas Pulao,"Rice & Biryani""""",,205,1,205
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,85,29,2465
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105297,Veg Jaipuri,"Main Course""""",,238.5714286,21,5010
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178752,Mix Paratha,"Parathas""""",,155,7,1085
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,210,19,3990
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105322,Rajasthani Bhindi,"Flavours of Rajasthan""""",,230,5,1150
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105220,B.Cheese Kulcha,"Indian Breads""""",,120,11,1320
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,525,44625
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109178773,Paneer Paratha,"Parathas""""",,155,3,465
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153278,Dal Fry Combo,"Swiggy Exclusive Combos""""",,206.6666667,12,2480
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,273.1730769,52,14205
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105319,Plain Palak,"Main Course""""",,200,2,400
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105374,Mix Veg Khichdi,"Rice & Biryani""""",,180,1,180
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,230,14,3220
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi J,"Starters""""",,130,76,9880
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,230,9,2070
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105238,Aloo Paratha,"Parathas""""",,145,17,2465
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105308,Dum Aloo Kashmiri,"Main Course""""",,230,4,920
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156504,Schezwan Chutney,"Chinese""""",,40,5,200
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,224.4,25,5610
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109179962,B.Laccha Paratha,"Parathas""""",,70,6,420
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,378.1,50,18905
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,263.6363636,44,11600
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,220,45,9900
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105332,Aloo Kanda,"Flavours of Rajasthan""""",,230,6,1380
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,113294784,Paneer Manchurian,"Chinese""""",,255,2,510
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105339,Paneer Pasanda,"Main Course""""",,255,3,765
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,178.2646048,291,51875
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,257.5925926,81,20865
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,57.85046729,107,6190
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105269,Veg Raita,"Accompaniments""""",,85,9,765
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,407,6919
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,466,20970
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,180,4,720
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,190,2,380
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,115,8625
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,251.4285714,28,7040
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,113292537,Aamras,"Summer Special Menu""""",,100,130,13000
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,121.6071429,28,3405
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,253.7878788,33,8375
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,210,12,2520
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,248,5,1240
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105306,Aloo Gobi Mutter,"Main Course""""",,230,11,2530
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105338,Paneer Handi,"Main Course""""",,257.8571429,28,7220
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105241,Gobi Paratha,"Parathas""""",,145,4,580
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,60,6,360
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,5,225
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,295,20650
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,40,8,320
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,266.0714286,28,7450
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,170,9,1530
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd,"Accompaniments""""",,63.92857143,28,1790
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109588024,Dum Aloo Combo,"Swiggy Exclusive Combos""""",,246,5,1230
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583331,Sev Tamatar Combo,"Swiggy Exclusive Combos""""",,268,20,5360
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105393,Chana Masala,"Main Course""""",,220,5,1100
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68282844,Paneer Tikka Dry,"Starters""""",,230,3,690
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,263.2911392,79,20800
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105296,Veg Handi,"Main Course""""",,245,12,2940
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,230,5,1150
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105267,Gobi Manchurian Dry,"Starters""""",,255,22,5610
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,236.6666667,12,2840
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,230,2,460
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105326,Ker Sangri,"Flavours of Rajasthan""""",,230,4,920
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,110460792,Matka Rabdi,"Desserts""""",,100,4,400
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix J,"Starters""""",,140,64,8960
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105394,Chole Masala,"Main Course""""",,224.2857143,21,4710
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,37,1850
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109582451,Chana Masala Combo,"Swiggy Exclusive Combos""""",,241.6666667,3,725
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,144,6480
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,225,7875
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,264.4628099,121,32000
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,187.7777778,27,5070
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,340.5,10,3405
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,70,6,420
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,9,495
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,46.60550459,109,5080
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,208.1578947,38,7910
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,260.7317073,41,10690
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,263.030303,33,8680
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105200,B.Cheese Naan,"Indian Breads""""",,120,6,720
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,100,37,3700
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105300,Veg Makhanwala,"Main Course""""",,230,5,1150
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105252,Manchow Soup,"Soups""""",,167.2222222,18,3010
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105253,Poori,"Indian Breads""""",,92.72727273,11,1020
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105344,Mutter Paneer,"Main Course""""",,272.5,12,3270
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,113292535,Aamras + Puri,"Summer Special Menu""""",,185,42,7770
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802733,Chaas,"Beverages""""",,45,35,1575
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,234,5,1170
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105251,G.Tawa Paratha,"Indian Breads""""",,55,29,1595
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156509,Rajasthani Khichdii,"Flavours of Rajasthan""""",,184.2857143,7,1290
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,269.5901639,61,16445
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,150,10500
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,65,23,1495
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,267.5,12,3210
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105381,B.Missi Roti,"Indian Breads""""",,55,17,935
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802732,Salted Lassi,"Beverages""""",,70,5,350
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,262.5714286,35,9190
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105283,Paneer Tikka Dry,"Starters""""",,255,17,4335
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105357,Panch Mel Dal,"Flavours of Rajasthan""""",,215,8,1720
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109180000,Laccha Paratha,"Parathas""""",,60,11,660
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802734,Kesar Lassi,"Beverages""""",,80,9,720
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105328,Dahiwale Aloo,"Flavours of Rajasthan""""",,230,3,690
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,215.078125,64,13765
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,215,6,1290
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,254.5,40,10180
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,260,7,1820
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,187.03125,64,11970
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,251.5,20,5030
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,270.9090909,33,8940
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91399846,Aamras,"Desserts""""",,100,27,2700
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,103,9270
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,205.1968504,127,26060
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,156,2340
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,13,650
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,66.5,20,1330
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,165,73,12045
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105217,B.Onion Kulcha,"Indian Breads""""",,80,9,720
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,261.8,25,6545
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,83.08641975,81,6730
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109583504,Kadai Paneer Combo,"Swiggy Exclusive Combos""""",,267.1428571,14,3740
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105309,Aloo Sukha Bhaji,"Main Course""""",,355,5,1775
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,109179622,G.Tawa Paratha,"Parathas""""",,55,4,220
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,258.3333333,15,3875
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105274,Veg Fried Rice,"Chinese""""",,215.6097561,41,8840
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,245,32,7840
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105310,Aloo Methi,"Main Course""""",,200,3,600
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105397,Baby Corn Mushroom Masala,"Main Course""""",,290,12,3480
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,186.6233766,77,14370
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,105,3675
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105375,Masala Khichdi,"Rice & Biryani""""",,215,12,2580
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,245,8,1960
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60742798,Schezwan Chutney,"Accompaniments""""",,40,12,480
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,195.6,25,4890
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi J,"Starters""""",,130,85,11050
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,247.1428571,42,10380
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,111802731,Sweet Lassi,"Beverages""""",,70,30,2100
+4,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101896866,Churma,"Desserts""""",,180,5,900
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105223,Paneer Kulcha,"Indian Breads""""",,110,4,440
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,256.4705882,17,4360
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,253.8235294,17,4315
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,176.9631902,163,28845
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,194.2567568,74,14375
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156504,Schezwan Chutney,"Chinese""""",,45,3,135
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,122.8409091,88,10810
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105319,Plain Palak,"Main Course""""",,210,2,420
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105220,B.Cheese Kulcha,"Indian Breads""""",,110,17,1870
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105251,G.Tawa Paratha,"Indian Breads""""",,55,21,1155
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,176.7647059,17,3005
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105386,Plain Bajra Roti,"Indian Breads""""",,45,27,1215
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,196.6666667,18,3540
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,229.2215569,334,76560
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,255,14,3570
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105287,Churma,"Starters""""",,180,12,2160
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978132,Dal Tadka Combo,"Late Night Specials""""",,270,1,270
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,210,2,420
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105396,Mushroom Masala,"Main Course""""",,260,10,2600
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105321,Kaju Mutter,"Main Course""""",,180,6,1080
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105381,B.Missi Roti,"Indian Breads""""",,50,12,600
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,40,98,3920
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,253,25,6325
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105364,Veg Handi Biryani,"Rice & Biryani""""",,200,1,200
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68282791,Veg Dum Biryani Combo,"Swiggy Exclusive Combos""""",,295,1,295
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153288,Veg Biryani Combo,"Swiggy Exclusive Combos""""",,305,12,3660
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,219.6666667,75,16475
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105213,Plain Kulcha,"Indian Breads""""",,60,6,360
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105338,Paneer Handi,"Main Course""""",,245,7,1715
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi,"Starters""""",,124.5945946,111,13830
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,47,2115
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,213,3195
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105394,Chole Masala,"Main Course""""",,218.9473684,19,4160
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,271,30,8130
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105349,Mushroom Paneer Masala,"Main Course""""",,240,15,3600
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,166.7391304,23,3835
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,212.7272727,22,4680
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,202.6785714,56,11350
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156489,Gobi Manchurian Gravy,"Chinese""""",,230,6,1380
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,220.6428571,70,15445
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,65,4,260
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,170,48,8160
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105334,Gujrati Kadhi,"Flavours of Rajasthan""""",,155,2,310
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,256.1458333,96,24590
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105305,Methi Malai Mutter,"Main Course""""",,170,5,850
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,203.902439,41,8360
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105269,Veg Raita,"Accompaniments""""",,86.57894737,38,3290
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105253,Poori,"Indian Breads""""",,149.047619,21,3130
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105398,Veg Manchurian ,"Chinese""""",,253.6206897,58,14710
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105322,Rajasthani Bhindi,"Flavours of Rajasthan""""",,205,13,2665
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,90.92592593,27,2455
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,205,8,1640
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105358,Rajputana Dal (with Tadka),"Main Course""""",,165,3,495
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105274,Veg Fried Rice,"Chinese""""",,222.8571429,28,6240
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105369,Green Peas Pulao,"Rice & Biryani""""",,175,6,1050
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105300,Veg Makhanwala,"Main Course""""",,230,9,2070
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,227.8099174,121,27565
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,195,15,2925
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156512,Extra Bati,"Flavours of Rajasthan""""",,70,9,630
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105344,Mutter Paneer,"Main Course""""",,193.1818182,11,2125
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,190.0701754,285,54170
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,332.6315789,57,18960
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,38,1900
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105297,Veg Jaipuri,"Main Course""""",,217.0833333,12,2605
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix,"Starters""""",,132.8,75,9960
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,198.8461538,13,2585
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105351,Palak Dal,"Main Course""""",,130,6,780
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,206.5,40,8260
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,255.4,25,6385
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,46,2530
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,60,8,480
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,208.0434783,23,4785
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105302,Navratan Korma,"Main Course""""",,170,5,850
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105252,Manchow Soup,"Soups""""",,160,10,1600
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,253.5238095,105,26620
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105309,Aloo Sukha Bhaji,"Main Course""""",,178.5714286,7,1250
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105367,Palak Rice,"Rice & Biryani""""",,175,4,700
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,260,18200
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,188,13160
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,95,33,3135
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,255,19125
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105311,Jeera Aloo,"Main Course""""",,131.8181818,11,1450
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156509,Rajasthani Khichdii,"Flavours of Rajasthan""""",,200,8,1600
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105380,Plain Missi Roti,"Indian Breads""""",,45,14,630
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105267,Gobi Manchurian Dry,"Starters""""",,220,12,2640
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105345,Shahi Paneer,"Main Course""""",,207.5,6,1245
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105245,Sweet corn Soup,"Soups""""",,120,3,360
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105294,Mix Vegetable,"Main Course""""",,215,15,3225
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105357,Panch Mel Dal,"Flavours of Rajasthan""""",,155,10,1550
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105277,Mushroom Manchurian Dry,"Starters""""",,250,2,500
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,211.875,88,18645
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105310,Aloo Methi,"Main Course""""",,200,10,2000
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105326,Ker Sangri,"Flavours of Rajasthan""""",,165,11,1815
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,100,233,23300
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,20,1400
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,389,13615
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105392,Green Peas Masala,"Main Course""""",,235,3,705
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,226.7032967,91,20630
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,52.18085106,94,4905
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,238.5714286,14,3340
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,84.6969697,33,2795
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105368,Kashmiri Pulao,"Rice & Biryani""""",,182.7777778,9,1645
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105200,B.Cheese Naan,"Indian Breads""""",,110,18,1980
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,237.1568627,51,12095
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105332,Aloo Kanda,"Flavours of Rajasthan""""",,199.8214286,28,5595
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105206,B.Cheese Garlic Naan,"Indian Breads""""",,120,7,840
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,228.6363636,11,2515
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,238.9473684,38,9080
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd ( 150 Gms ),"Accompaniments""""",,41.92307692,26,1090
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105296,Veg Handi,"Main Course""""",,170,2,340
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105279,Mushroom Chilly,"Starters""""",,250,6,1500
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,198.0172414,116,22970
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,278.627451,51,14210
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,260,18,4680
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,67.22891566,83,5580
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105339,Paneer Pasanda,"Main Course""""",,226.25,8,1810
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105303,Malai Kofta,"Main Course""""",,234.2105263,19,4450
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,233.4615385,13,3035
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105393,Chana Masala,"Main Course""""",,160,4,640
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,215.5392157,102,21985
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,175.7692308,13,2285
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,684,58140
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,556,9452
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105315,Methi Mutter,"Main Course""""",,240,1,240
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156500,Mushroom Manchurian ,"Chinese""""",,250,2,500
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,179.1071429,28,5015
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,42.05479452,73,3070
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105270,Pineapple Raita,"Accompaniments""""",,110,5,550
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105330,Wadi Methi,"Flavours of Rajasthan""""",,191,5,955
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi,"Starters""""",,124.5679012,81,10090
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,30,1500
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,65.21834061,229,14935
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,202.4226804,194,39270
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,582,26190
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60742798,Schezwan Chutney,"Accompaniments""""",,43.33333333,9,390
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,60,9,540
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,230,6,1380
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,129,4515
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,224.1666667,60,13450
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,162.8977273,176,28670
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,229.5652174,23,5280
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,189.0540541,37,6995
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105397,Baby Corn Mushroom Masala,"Main Course""""",,310,22,6820
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,42,1890
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105328,Dahiwale Aloo,"Flavours of Rajasthan""""",,165,2,330
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105371,Mushroom Pulao,"Rice & Biryani""""",,250,3,750
+9,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,226.6666667,21,4760
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,64,3200
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi,"Starters""""",,126.2244898,98,12370
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,181,10,1810
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105394,Chole Masala,"Main Course""""",,220.9677419,31,6850
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,181.4285714,28,5080
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,280,4200
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978166,Jodhpuri Gatte Combo,"Late Night Specials""""",,255,1,255
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,233.6363636,22,5140
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,575,25875
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978179,Sarson Ka Saag Combo,"Late Night Specials""""",,260,6,1560
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi,"Starters""""",,124.3076923,65,8080
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,203.3980583,206,41900
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,257.2619048,84,21610
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,178,12460
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,25,1375
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105398,Veg Manchurian ,"Chinese""""",,258.2,50,12910
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105213,Plain Kulcha,"Indian Breads""""",,60,3,180
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105200,B.Cheese Naan,"Indian Breads""""",,120,23,2760
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105369,Green Peas Pulao,"Rice & Biryani""""",,170,31,5270
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,190,16,3040
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105312,Aloo Capsicum,"Main Course""""",,206.6666667,9,1860
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105345,Shahi Paneer,"Main Course""""",,170,2,340
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,20,340
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,255,21,5355
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105306,Aloo Gobi Mutter,"Main Course""""",,212.5,12,2550
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105344,Mutter Paneer,"Main Course""""",,170,8,1360
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105349,Mushroom Paneer Masala,"Main Course""""",,250,4,1000
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,92.4137931,58,5360
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105322,Rajasthani Bhindi,"Flavours of Rajasthan""""",,197.5,6,1185
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,216.6666667,24,5200
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,180,14,2520
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,65,19,1235
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,195.9615385,26,5095
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,204.6,25,5115
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,270,6,1620
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105319,Plain Palak,"Main Course""""",,182.5,8,1460
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105326,Ker Sangri,"Flavours of Rajasthan""""",,202.5,8,1620
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,195,40,7800
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,583,9911
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,224.7222222,72,16180
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105310,Aloo Methi,"Main Course""""",,176.9230769,13,2300
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,100,48,4800
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,181.5384615,13,2360
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix,"Starters""""",,132.6760563,71,9420
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105351,Palak Dal,"Main Course""""",,245,9,2205
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,41,3690
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,70.60606061,66,4660
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,293,21975
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105395,Mushroom Mutter,"Main Course""""",,260,4,1040
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,194.7727273,22,4285
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105300,Veg Makhanwala,"Main Course""""",,202.6666667,15,3040
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,266.3592233,103,27435
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,125,4375
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,52,1820
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,195.3191489,47,9180
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153278,Dal Fry Combo,"Swiggy Exclusive Combos""""",,205,5,1025
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105296,Veg Handi,"Main Course""""",,247.8571429,7,1735
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105375,Masala Khichdi,"Rice & Biryani""""",,224,25,5600
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105253,Poori,"Indian Breads""""",,85,3,255
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105301,Sabji Jalfrezi,"Main Course""""",,160,4,640
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,227,30,6810
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,228.2051282,39,8900
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978113,Paneer TM Combo,"Late Night Specials""""",,265,8,2120
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105328,Dahiwale Aloo,"Flavours of Rajasthan""""",,182.7272727,11,2010
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,220,40,8800
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,45,133,5985
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,221.3043478,161,35630
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,40,145,5800
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105393,Chana Masala,"Main Course""""",,163.125,8,1305
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105206,B.Cheese Garlic Naan,"Indian Breads""""",,130,18,2340
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68282791,Veg Dum Biryani Combo,"Swiggy Exclusive Combos""""",,285,6,1710
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,255,24,6120
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,60,58,3480
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105308,Dum Aloo Kashmiri,"Main Course""""",,160,8,1280
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105297,Veg Jaipuri,"Main Course""""",,240,8,1920
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105251,G.Tawa Paratha,"Indian Breads""""",,55,18,990
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105392,Green Peas Masala,"Main Course""""",,183.125,8,1465
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,221.625,80,17730
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd ( 150 Gms ),"Accompaniments""""",,49,45,2205
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,271.25,56,15190
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153288,Veg Biryani Combo,"Swiggy Exclusive Combos""""",,300,1,300
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,57,4845
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,80,4000
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105302,Navratan Korma,"Main Course""""",,170,9,1530
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105287,Churma,"Starters""""",,164,5,820
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105303,Malai Kofta,"Main Course""""",,160,8,1280
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,255,10,2550
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,38.50877193,57,2195
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,206.6666667,24,4960
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,200.5263158,19,3810
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,197.1052632,19,3745
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,236.25,20,4725
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,10,750
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,85,105,8925
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156512,Extra Bati,"Flavours of Rajasthan""""",,70,18,1260
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,25,1125
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105274,Veg Fried Rice,"Chinese""""",,217.3076923,26,5650
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,151.9860627,287,43620
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,182.1544715,246,44810
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,191.1560694,173,33070
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,70,31,2170
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,260,3,780
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156504,Schezwan Chutney,"Chinese""""",,40,7,280
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,180,9,1620
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,260.5555556,9,2345
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105338,Paneer Handi,"Main Course""""",,228.8461538,13,2975
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105330,Wadi Methi,"Flavours of Rajasthan""""",,173.125,8,1385
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,602,51170
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,228.0952381,21,4790
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,77,1155
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105339,Paneer Pasanda,"Main Course""""",,251.4285714,14,3520
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,208.8135593,59,12320
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105270,Pineapple Raita,"Accompaniments""""",,110,9,990
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978138,Veg Kolhapuri Combo,"Late Night Specials""""",,255,6,1530
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,186.3461538,26,4845
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105396,Mushroom Masala,"Main Course""""",,265,6,1590
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,212.9508197,61,12990
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,334.3548387,31,10365
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,65,21,1365
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,170.4545455,154,26250
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,258.6363636,33,8535
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,180.2222222,45,8110
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,270.7142857,7,1895
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101896866,Churma,"Desserts""""",,180,5,900
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105357,Panch Mel Dal,"Flavours of Rajasthan""""",,192.5,8,1540
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,226.6666667,18,4080
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,249.6052632,76,18970
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105311,Jeera Aloo,"Main Course""""",,165,4,660
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978120,Veg Biryani Combo,"Late Night Specials""""",,300,10,3000
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,227.1568627,306,69510
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,206.2371134,97,20005
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,276.4705882,102,28200
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105386,Plain Bajra Roti,"Indian Breads""""",,45,40,1800
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,260,13,3380
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd,"Accompaniments""""",,35,5,175
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105294,Mix Vegetable,"Main Course""""",,224.2857143,14,3140
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105334,Gujrati Kadhi,"Flavours of Rajasthan""""",,180,14,2520
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105381,B.Missi Roti,"Indian Breads""""",,55,12,660
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,80,82,6560
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,192,8640
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix J,"Starters""""",,140,10,1400
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,261,15,3915
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,220,10,2200
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105247,Veg Clear Soup,"Soups""""",,120,3,360
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,267,18690
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,101978132,Dal Tadka Combo,"Late Night Specials""""",,270,8,2160
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105332,Aloo Kanda,"Flavours of Rajasthan""""",,183.0555556,18,3295
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,362,12670
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156499,Paneer Manchurian,"Chinese""""",,255,2,510
+10,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,237.5471698,53,12590
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105279,Mushroom Chilly,"Starters""""",,255,1,255
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105306,Aloo Gobi Mutter,"Main Course""""",,230,11,2530
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd,"Accompaniments""""",,53,10,530
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,248.3333333,21,5215
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105287,Churma,"Starters""""",,180,16,2880
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,100,41,4100
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,6,270
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105269,Veg Raita,"Accompaniments""""",,85,2,170
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,35,30,1050
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438303,Paneer TM Combo,"FIFA Specials""""",,265,6,1590
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,245,5,1225
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438310,Dal Tadka Combo,"FIFA Specials""""",,270,2,540
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105301,Sabji Jalfrezi,"Main Course""""",,230,3,690
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105275,Paneer Manchurian,"Starters""""",,255,6,1530
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,75,3375
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,265,26,6890
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,170,9,1530
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105392,Green Peas Masala,"Main Course""""",,220,4,880
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156489,Gobi Manchurian Gravy,"Chinese""""",,255,4,1020
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,46,1610
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105206,B.Cheese Garlic Naan,"Indian Breads""""",,130,40,5200
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438321,Sarson Ka Saag Combo,"FIFA Specials""""",,260,1,260
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,245,7,1715
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105319,Plain Palak,"Main Course""""",,200,1,200
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,32,1120
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105277,Mushroom Manchurian Dry,"Starters""""",,255,1,255
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105357,Panch Mel Dal,"Flavours of Rajasthan""""",,215,11,2365
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105294,Mix Vegetable,"Main Course""""",,245,11,2695
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,266.8181818,66,17610
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105299,Veg Hariyali,"Main Course""""",,240,2,480
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,32,1760
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105332,Aloo Kanda,"Flavours of Rajasthan""""",,230,36,8280
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156509,Rajasthani Khichdii,"Flavours of Rajasthan""""",,180,5,900
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,220,15,3300
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105328,Dahiwale Aloo,"Flavours of Rajasthan""""",,207,35,7245
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,187.7142857,35,6570
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105200,B.Cheese Naan,"Indian Breads""""",,120,20,2400
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105371,Mushroom Pulao,"Rice & Biryani""""",,190,2,380
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105396,Mushroom Masala,"Main Course""""",,260,10,2600
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105297,Veg Jaipuri,"Main Course""""",,240,5,1200
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105267,Gobi Manchurian Dry,"Starters""""",,255,2,510
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,110,48,5280
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,220.7692308,13,2870
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,187,16830
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,105438317,Jodhpuri Gatte Combo,"FIFA Specials""""",,255,1,255
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,247.9411765,17,4215
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105364,Veg Handi Biryani,"Rice & Biryani""""",,190,2,380
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105274,Veg Fried Rice,"Chinese""""",,212,10,2120
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,209,14630
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,268,15,4020
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105397,Baby Corn Mushroom Masala,"Main Course""""",,280,5,1400
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153278,Dal Fry Combo,"Swiggy Exclusive Combos""""",,215,5,1075
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60742798,Schezwan Chutney,"Accompaniments""""",,40,16,640
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,180,7,1260
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,247.2580645,31,7665
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,255,7,1785
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105252,Manchow Soup,"Soups""""",,160,8,1280
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,50.3164557,158,7950
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105369,Green Peas Pulao,"Rice & Biryani""""",,170,2,340
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,216.3333333,30,6490
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix J,"Starters""""",,140,76,10640
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,230.4,50,11520
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,119,8330
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,358,16110
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,246.5492958,71,17505
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,260.952381,21,5480
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105296,Veg Handi,"Main Course""""",,245,6,1470
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105300,Veg Makhanwala,"Main Course""""",,230,1,230
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,261.3461538,52,13590
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,230,24,5520
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,182.75,20,3655
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,101,1515
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,234.6666667,15,3520
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105310,Aloo Methi,"Main Course""""",,200,1,200
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105375,Masala Khichdi,"Rice & Biryani""""",,210,12,2520
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,305,5185
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi J,"Starters""""",,130,118,15340
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,257.7536232,69,17785
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,83,4150
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,190,7,1330
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,230,10,2300
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,180,53,9540
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,40,105,4200
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,126,9450
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105398,Veg Manchurian ,"Chinese""""",,255,46,11730
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105358,Rajputana Dal (with Tadka),"Main Course""""",,255,1,255
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105255,Tomato Soup,"Soups""""",,120,3,360
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105393,Chana Masala,"Main Course""""",,220,4,880
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,261.8666667,150,39280
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,233.6363636,11,2570
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,178.125,16,2850
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105386,Plain Bajra Roti,"Indian Breads""""",,45,8,360
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,60,20,1200
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105220,B.Cheese Kulcha,"Indian Breads""""",,120,17,2040
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105322,Rajasthani Bhindi,"Flavours of Rajasthan""""",,230,12,2760
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,73.48484849,66,4850
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,65,17,1105
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,210,18900
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,218.1021898,137,29880
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,258.8461538,13,3365
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,165.8045977,87,14425
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105334,Gujrati Kadhi,"Flavours of Rajasthan""""",,205,5,1025
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,65,15,975
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,216,7560
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,80,81,6480
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,250.3846154,39,9765
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105338,Paneer Handi,"Main Course""""",,245,16,3920
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,253,15,3795
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,266.9047619,42,11210
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105344,Mutter Paneer,"Main Course""""",,245,2,490
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,70,26,1820
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105349,Mushroom Paneer Masala,"Main Course""""",,300,5,1500
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,232,10,2320
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105343,Paneer Chilli Gravy,"Main Course""""",,160,3,480
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105367,Palak Rice,"Rice & Biryani""""",,165,1,165
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156512,Extra Bati,"Flavours of Rajasthan""""",,70,8,560
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,255,23,5865
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,258.75,16,4140
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,178.9400922,217,38830
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,234.2857143,28,6560
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105316,Kaju Mushroom,"Main Course""""",,260,8,2080
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68282791,Veg Dum Biryani Combo,"Swiggy Exclusive Combos""""",,285,5,1425
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,261.2280702,57,14890
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,271.1320755,53,14370
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,655,55675
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,40,2000
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,265.2272727,44,11670
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105302,Navratan Korma,"Main Course""""",,230,1,230
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,260,20,5200
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,230,1,230
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi J,"Starters""""",,130,79,10270
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105247,Veg Clear Soup,"Soups""""",,120,2,240
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,203.803681,163,33220
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105303,Malai Kofta,"Main Course""""",,230,5,1150
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,205,49,10045
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,85,65,5525
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,301.3125,80,24105
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,353.6,25,8840
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,260,17,4420
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105326,Ker Sangri,"Flavours of Rajasthan""""",,230,3,690
+11,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105339,Paneer Pasanda,"Main Course""""",,245,12,2940
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105305,Methi Malai Mutter,"Main Course""""",,230,2,460
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105344,Mutter Paneer,"Main Course""""",,248.3333333,6,1490
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614570,Dal Tadka Combo,"Swiggy Exclusive Combos""""",,273.372093,86,23510
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105323,Jodhpuri Gatte,"Flavours of Rajasthan""""",,245,21,5145
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105268,Boondi Raita,"Accompaniments""""",,85,49,4165
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105269,Veg Raita,"Accompaniments""""",,85,13,1105
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105360,Rajasthani Dal,"Flavours of Rajasthan""""",,216.1111111,18,3890
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105227,Plain Phulka 5Pcs,"Indian Breads""""",,75,151,11325
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105329,Sev Tamatar,"Flavours of Rajasthan""""",,247.3853211,109,26965
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60403027,G.Phulka 1Pc,"Indian Breads""""",,17,272,4624
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105346,Paneer Butter Masala,"Main Course""""",,263.5616438,73,19240
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105259,Paneer Chilli,"Starters""""",,258.4375,64,16540
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156489,Gobi Manchurian Gravy,"Chinese""""",,255,3,765
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105307,Dum Aloo,"Main Course""""",,230,21,4830
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105350,Dal Kolhapuri,"Main Course""""",,212.8571429,35,7450
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105302,Navratan Korma,"Main Course""""",,235,8,1880
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105232,Plain Phulka 1Pc,"Indian Breads""""",,15,112,1680
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614567,Paneer TM Combo,"Swiggy Exclusive Combos""""",,268.1355932,118,31640
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105356,Dal Bati Churma,"Flavours of Rajasthan""""",,380,31,11780
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105369,Green Peas Pulao,"Rice & Biryani""""",,180,8,1440
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105397,Baby Corn Mushroom Masala,"Main Course""""",,290,32,9280
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105309,Aloo Sukha Bhaji,"Main Course""""",,200,7,1400
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105363,Veg Hyderabadi Biryani,"Rice & Biryani""""",,200,3,600
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,60493614,Kurkuri Bhindi,"Starters""""",,193.1578947,19,3670
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105375,Masala Khichdi,"Rice & Biryani""""",,210,7,1470
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105354,Dal Makhani,"Main Course""""",,214.6428571,28,6010
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105306,Aloo Gobi Mutter,"Main Course""""",,230,15,3450
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105343,Paneer Chilli Gravy,"Main Course""""",,194.6666667,15,2920
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,68283853,B.Laccha Paratha,"Indian Breads""""",,70,28,1960
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105276,Schezwan Fried Rice,"Chinese""""",,220.5882353,68,15000
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105366,Jeera Rice,"Rice & Biryani""""",,171.5483871,155,26590
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105261,Masala Papad,"Accompaniments""""",,65,16,1040
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105364,Veg Handi Biryani,"Rice & Biryani""""",,200,4,800
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105386,Plain Bajra Roti,"Indian Breads""""",,45,4,180
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105213,Plain Kulcha,"Indian Breads""""",,60,6,360
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105328,Dahiwale Aloo,"Flavours of Rajasthan""""",,165,3,495
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105262,Masala Khichiya,"Accompaniments""""",,71.70731707,123,8820
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105303,Malai Kofta,"Main Course""""",,230,4,920
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156499,Paneer Manchurian,"Chinese""""",,265,4,1060
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105245,Sweet corn Soup,"Soups""""",,120,2,240
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105385,G.Makka Roti,"Indian Breads""""",,50,24,1200
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105332,Aloo Kanda,"Flavours of Rajasthan""""",,230,26,5980
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105352,Dal Fry,"Main Course""""",,182.3076923,52,9480
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105272,Special Rajasthani Lasan Chutney,"Flavours of Rajasthan""""",,40,86,3440
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105263,Veg Manchurian ,"Starters""""",,256.4285714,14,3590
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156498,Paneer Chilli,"Chinese""""",,259.7368421,19,4935
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105339,Paneer Pasanda,"Main Course""""",,245,3,735
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105330,Wadi Methi,"Flavours of Rajasthan""""",,230,5,1150
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105324,Papad Methi Ki Sabji,"Flavours of Rajasthan""""",,236,15,3540
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105290,Khichia Churi J,"Starters""""",,130,120,15600
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105361,Veg Biryani,"Rice & Biryani""""",,180,21,3780
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105220,B.Cheese Kulcha,"Indian Breads""""",,120,9,1080
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105389,Plain Tandoori Naan,"Indian Breads""""",,60,9,540
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105337,Paneer TM,"Main Course""""",,261.369863,219,57240
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105257,Fried Papad,"Accompaniments""""",,45,45,2025
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105274,Veg Fried Rice,"Chinese""""",,222.0689655,29,6440
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105296,Veg Handi,"Main Course""""",,255,2,510
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105292,Cheese Kolhapuri,"Main Course""""",,266.1290323,31,8250
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105365,Steamed Rice,"Rice & Biryani""""",,109.0322581,31,3380
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105394,Chole Masala,"Main Course""""",,220,8,1760
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105392,Green Peas Masala,"Main Course""""",,220,5,1100
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105298,Veg Kolhapuri,"Main Course""""",,246.2790698,86,21180
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105378,B.Tandoori Roti,"Indian Breads""""",,45,554,24930
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105291,Papad Khichia Churi Mix J,"Starters""""",,140,92,12880
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105355,Dal Bati,"Flavours of Rajasthan""""",,298.164557,79,23555
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105270,Pineapple Raita,"Accompaniments""""",,110,2,220
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105400,Bhindi Masala,"Main Course""""",,230,22,5060
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105333,Rajasthani Kadhi,"Flavours of Rajasthan""""",,205,63,12915
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105336,Paneer Bhurji,"Main Course""""",,246.7741935,62,15300
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105214,B.Kulcha ,"Indian Breads""""",,70,141,9870
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105398,Veg Manchurian ,"Chinese""""",,261.7741935,31,8115
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,91396224,Gulab Jamun,"Desserts""""",,90,743,66870
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153288,Veg Biryani Combo,"Swiggy Exclusive Combos""""",,300,11,3300
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105265,Plain Curd,"Accompaniments""""",,43.18181818,22,950
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156512,Extra Bati,"Flavours of Rajasthan""""",,70,3,210
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105341,Paneer Kolhapuri,"Main Course""""",,263.2283465,127,33430
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105335,Kadai Paneer,"Main Course""""",,260.6,50,13030
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105310,Aloo Methi,"Main Course""""",,200,5,1000
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105347,Chole Paneer,"Main Course""""",,248.75,16,3980
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105297,Veg Jaipuri,"Main Course""""",,230,9,2070
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105267,Gobi Manchurian Dry,"Starters""""",,255,2,510
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105326,Ker Sangri,"Flavours of Rajasthan""""",,230,9,2070
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105340,Palak Paneer,"Main Course""""",,246.7241379,29,7155
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105390,B.Tandoori Naan,"Indian Breads""""",,70,351,24570
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,99153278,Dal Fry Combo,"Swiggy Exclusive Combos""""",,205,8,1640
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,106110108,Aloo Paratha,"Indian Breads""""",,110,16,1760
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105368,Kashmiri Pulao,"Rice & Biryani""""",,180,8,1440
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,106110178,Paneer Kulcha,"Indian Breads""""",,115,8,920
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105195,Garlic Naan,"Indian Breads""""",,100,38,3800
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105255,Tomato Soup,"Soups""""",,120,9,1080
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105372,Dal Khichdi,"Rice & Biryani""""",,176.9377163,289,51135
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105264,Green Salad,"Accompaniments""""",,55,14,770
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105252,Manchow Soup,"Soups""""",,160,9,1440
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105288,Papad Churi J,"Starters""""",,130,55,7150
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105304,Veg Kofta,"Main Course""""",,230,8,1840
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105373,Rajasthani Khichdi,"Rice & Biryani""""",,185.8333333,6,1115
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105357,Panch Mel Dal,"Flavours of Rajasthan""""",,215,8,1720
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614569,Jodhpuri Gatte Combo,"Swiggy Exclusive Combos""""",,256.6216216,37,9495
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105258,Roasted Khichiya,"Accompaniments""""",,43,55,2365
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,61156506,Roasted Papad,"Accompaniments""""",,35,91,3185
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105377,Plain Tandoori Roti,"Indian Breads""""",,35,223,7805
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105320,Sarson Ka Saag,"Main Course""""",,230,31,7130
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,59614568,Veg Kolhapuri Combo,"Swiggy Exclusive Combos""""",,258.8888889,18,4660
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105359,Dal Dhokli,"Flavours of Rajasthan""""",,249.5833333,24,5990
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105287,Churma,"Starters""""",,180,4,720
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105348,Kaju Paneer,"Main Course""""",,260,8,2080
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105266,Aloo Raita,"Accompaniments""""",,85,8,680
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105208,Special Khobewali Roti,"Flavours of Rajasthan""""",,80,119,9520
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105396,Mushroom Masala,"Main Course""""",,260,1,260
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105206,B.Cheese Garlic Naan,"Indian Breads""""",,130,40,5200
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105260,Roasted B.Khichiya,"Accompaniments""""",,45.78431373,204,9340
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105278,Schezwan Noodles,"Chinese""""",,243.3333333,24,5840
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105235,Laccha Paratha,"Indian Breads""""",,65,6,390
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105383,Plain Makka Roti,"Indian Breads""""",,45,8,360
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105301,Sabji Jalfrezi,"Main Course""""",,230,4,920
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105200,B.Cheese Naan,"Indian Breads""""",,120,15,1800
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105289,Cheese B.Masala,"Main Course""""",,263.5849057,53,13970
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105229,G.Phulka 5Pcs,"Indian Breads""""",,85,850,72250
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105370,Veg Pulao,"Rice & Biryani""""",,177,10,1770
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105362,Veg Dum Biryani,"Rice & Biryani""""",,202.9192547,161,32670
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105353,Dal Tadka,"Main Course""""",,217.1069182,159,34520
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105376,Curd Rice,"Rice & Biryani""""",,174.8,25,4370
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,98440181,Sarson Ka Saag Combo,"Swiggy Exclusive Combos""""",,260,28,7280
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105342,Paneer Makhanwala,"Main Course""""",,260,8,2080
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105295,Veg Kadai,"Main Course""""",,246.7948718,39,9625
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105321,Kaju Mutter,"Main Course""""",,265,4,1060
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,106110121,G.Mix Paratha,"Indian Breads""""",,120,14,1680
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105388,G.Bajra Roti,"Indian Breads""""",,50,45,2250
+12,56509,1,Adarsh Annapoorna,Mumbai,Chowpatty,14105280,Hakka Noodles,"Chinese""""",,223.8095238,21,4700
